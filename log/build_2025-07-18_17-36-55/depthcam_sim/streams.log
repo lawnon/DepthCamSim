@@ -1,8 +1,0 @@
-[0.010s] Invoking command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nonso/Dev/DepthCamSim -DCMAKE_INSTALL_PREFIX=/home/nonso/Dev/DepthCamSim/install/depthcam_sim
-[0.021s] [31mCMake Error at CMakeLists.txt:1:
-[0.021s]   Parse error.  Expected a command name, got unquoted argument with text
-[0.021s]   "/**".
-[0.021s] 
-[0.022s] [0m
-[0.022s] -- Configuring incomplete, errors occurred!
-[0.024s] Invoked command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nonso/Dev/DepthCamSim -DCMAKE_INSTALL_PREFIX=/home/nonso/Dev/DepthCamSim/install/depthcam_sim

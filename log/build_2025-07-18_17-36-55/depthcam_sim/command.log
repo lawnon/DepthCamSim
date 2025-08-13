@@ -1,2 +1,0 @@
-Invoking command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nonso/Dev/DepthCamSim -DCMAKE_INSTALL_PREFIX=/home/nonso/Dev/DepthCamSim/install/depthcam_sim
-Invoked command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/nonso/Dev/DepthCamSim -DCMAKE_INSTALL_PREFIX=/home/nonso/Dev/DepthCamSim/install/depthcam_sim
