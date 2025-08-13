@@ -15,7 +15,7 @@ Programm Ausführen
 =====================
 In Console 1, folgendes Befehl eingeben
 $ ros2 launch depthcam_sim simulation.launch.py
-Hiemit werden Gazebo-Sim, Rviz und Rqt-Imgae-viewer geladen 
+Hiemit werden Gazebo-Sim, Rviz und Rqt-Imgae-viewer geladen. 
 
 In Console 2, folgendes Befehl eingeben
 $ build/depthcam_sim/depthcam_node
