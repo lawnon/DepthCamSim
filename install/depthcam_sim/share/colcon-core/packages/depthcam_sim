@@ -1,0 +1,1 @@
+image_transport_plugins:rclcpp:rclcpp_lifecycle:rclpy:robot_state_publisher:ros_gz_bridge:ros_gz_image:ros_gz_sim:rqt_image_view:rqt_plot:rqt_topic:rviz2:sensor_msgs:std_msgs:xacro

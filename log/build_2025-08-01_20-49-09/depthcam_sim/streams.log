@@ -1,0 +1,27 @@
+[0.016s] Invoking command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nonso/Dev/DepthCamSim/build/depthcam_sim -- -j8 -l8
+[0.180s] [100%] Built target depthcam_node
+[0.193s] Invoked command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/nonso/Dev/DepthCamSim/build/depthcam_sim -- -j8 -l8
+[0.207s] Invoking command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nonso/Dev/DepthCamSim/build/depthcam_sim
+[0.217s] -- Install configuration: ""
+[0.218s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/launch
+[0.218s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/launch/simulation.launch.py
+[0.218s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/rviz
+[0.218s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/rviz/simulation.rviz
+[0.219s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/world
+[0.219s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/world/simulation.sdf
+[0.219s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/ament_index/resource_index/package_run_dependencies/depthcam_sim
+[0.219s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/ament_index/resource_index/parent_prefix_path/depthcam_sim
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/environment/ament_prefix_path.sh
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/environment/ament_prefix_path.dsv
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/environment/path.sh
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/environment/path.dsv
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/local_setup.bash
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/local_setup.sh
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/local_setup.zsh
+[0.220s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/local_setup.dsv
+[0.220s] -- Installing: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/package.dsv
+[0.221s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/ament_index/resource_index/packages/depthcam_sim
+[0.221s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/cmake/depthcam_simConfig.cmake
+[0.221s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/cmake/depthcam_simConfig-version.cmake
+[0.221s] -- Up-to-date: /home/nonso/Dev/DepthCamSim/install/depthcam_sim/share/depthcam_sim/package.xml
+[0.222s] Invoked command in '/home/nonso/Dev/DepthCamSim/build/depthcam_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/nonso/Dev/DepthCamSim/build/depthcam_sim
